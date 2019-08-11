@@ -1,0 +1,32 @@
+_repo: The-Principles-of-Ornament_60034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ward, James
+    birthdate: 1851
+    deathdate: 1924
+    gutenberg_agent_id: '49797'
+    url: http://www.gutenberg.org/2009/agents/49797
+    wikipedia: https://en.wikipedia.org/wiki/James_Ward_(Irish_artist)
+  editor:
+    agent_name: Aitchison, George
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '50753'
+    url: http://www.gutenberg.org/2009/agents/50753
+    wikipedia: https://en.wikipedia.org/wiki/George_Aitchison
+description: ''
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Decoration and ornament'
+- !lcc 'NK'
+- GITenberg
+title: The Principles of Ornament
+url: http://www.gutenberg.org/ebooks/60034
